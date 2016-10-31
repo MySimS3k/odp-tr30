@@ -1,4 +1,5 @@
 ID	url	title	snippet
+1.0 http://kodlamadersleri.com/  PHP, HTML, CSS, Jquery ve script kodlama dersleri ile ilgili ders notları paylaşılan web sitesi.
 1.1	http://www.goksel.com/bilgiislem/	Göksel Bilgi İşlem	Ücretsiz sayaç, ziyaretçi defteri ve öneri sistemi sunuyor.
 1.2	http://www.gezginler.net/	Gezginler	Program indirme,webmaster kaynakları ve anket,ziyaretçi defteri gibi ücretsiz hizmetler sunmaktadır.
 1.3	http://www.defter.us/	Defter.us	Ücretsiz ziyaretçi defteri barındırma hizmeti veriyor.
